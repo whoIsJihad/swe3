@@ -1,0 +1,185 @@
+Notifications for user: Alice
+Hey Alice , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Alice , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Alice , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Alice , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Alice , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Alice , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Alice , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Alice , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Alice , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Alice , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Alice , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Alice , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Alice , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Alice , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+Hey Alice , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Bob
+Hey Bob , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Bob , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Bob , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Bob , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Bob , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Bob , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Bob , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Bob , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Bob , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+Hey Bob , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Charlie
+Hey Charlie , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Charlie , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Charlie , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Charlie , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Charlie , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Diana
+Hey Diana , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Diana , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Diana , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Diana , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Diana , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Eve
+Hey Eve , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Eve , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Eve , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Eve , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Eve , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Frank
+Hey Frank , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Frank , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Frank , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Frank , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Frank , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Grace
+Hey Grace , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Grace , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Grace , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Grace , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Grace , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Grace , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Grace , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Grace , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Grace , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Grace , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Hank
+Hey Hank , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Hank , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Hank , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Hank , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Hank , a new movie is available in the genre: Horror.The name of the movie is : Us
+
+Notifications for user: Ivy
+Hey Ivy , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Ivy , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Ivy , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Ivy , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Ivy , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Jack
+Hey Jack , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Jack , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Jack , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Jack , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Jack , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Karen
+Hey Karen , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Karen , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Karen , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Karen , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Karen , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Leo
+Hey Leo , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Leo , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Leo , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Leo , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Leo , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Mona
+Hey Mona , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Mona , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Mona , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Mona , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Mona , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Nina
+Hey Nina , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Nina , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Nina , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Nina , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Nina , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Nina , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Nina , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Nina , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Nina , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+Hey Nina , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Oscar
+Hey Oscar , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Oscar , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Oscar , a new movie is available in the genre: Comedy.The name of the movie is : Superbad
+Hey Oscar , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Oscar , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Oscar , a new movie is available in the genre: Comedy.The name of the movie is : Scary Movie
+Hey Oscar , a new movie is available in the genre: Comedy.The name of the movie is : Mr. Bean
+Hey Oscar , a new movie is available in the genre: Comedy.The name of the movie is : The Hangover
+Hey Oscar , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Oscar , a new movie is available in the genre: Comedy.The name of the movie is : Home Alone
+
+Notifications for user: Paul
+Hey Paul , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Paul , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Paul , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Paul , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Paul , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Paul , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Paul , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Paul , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Paul , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Paul , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Quincy
+Hey Quincy , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Quincy , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Quincy , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Quincy , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Quincy , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Quincy , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Quincy , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Quincy , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Quincy , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Quincy , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Rachel
+Hey Rachel , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Rachel , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Rachel , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Rachel , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Rachel , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+
+Notifications for user: Steve
+Hey Steve , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Steve , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Steve , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Steve , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Steve , a new movie is available in the genre: Horror.The name of the movie is : Us
+
+Notifications for user: Tina
+Hey Tina , a new movie is available in the genre: Horror.The name of the movie is : The Conjuring
+Hey Tina , a new movie is available in the genre: Horror.The name of the movie is : A Quiet Place
+Hey Tina , a new movie is available in the genre: Horror.The name of the movie is : It
+Hey Tina , a new movie is available in the genre: Thriller.The name of the movie is : Shutter Island
+Hey Tina , a new movie is available in the genre: Horror.The name of the movie is : Get Out
+Hey Tina , a new movie is available in the genre: Thriller.The name of the movie is : Inception
+Hey Tina , a new movie is available in the genre: Thriller.The name of the movie is : The Dark Knight
+Hey Tina , a new movie is available in the genre: Thriller.The name of the movie is : Gone Girl
+Hey Tina , a new movie is available in the genre: Horror.The name of the movie is : Us
+Hey Tina , a new movie is available in the genre: Thriller.The name of the movie is : Pulp Fiction
+

@@ -21,8 +21,10 @@ public class User {
         notifications.add("Hey " +this.name +" , a new movie is available in the genre: "+movie.genre+".The name of the movie is : "+movie.name);
     }
     public void displayNotifications(){
+        System.out.println("Notifications for user: "+this.name);
         for(String notification:notifications){
             System.out.println(notification);
         }
+        System.out.println("");
     }
 }
