@@ -1,12 +1,15 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class User {
     List<String> genres;
     String name;
+    List<String>notifications;
     public User(String name){
         this.name=name;
-        this.genres=new ArrayList<>();
+        this.notifications = Collections.synchronizedList(new ArrayList<>());
+        this.genres = Collections.synchronizedList(new ArrayList<>());
     }
     public void addGenre(String genre ){
         genres.add(genre);
@@ -15,8 +18,11 @@ public class User {
         genres.remove(genre);
     }
     public synchronized void update(Movie movie){
-
-        System.out.println("Hey " +this.name +" , a new movie is available in the genre: "+movie.genre);
-        System.out.println("The name of the movie is : "+movie.name);
+        notifications.add("Hey " +this.name +" , a new movie is available in the genre: "+movie.genre+".The name of the movie is : "+movie.name);
+    }
+    public void displayNotifications(){
+        for(String notification:notifications){
+            System.out.println(notification);
+        }
     }
 }
